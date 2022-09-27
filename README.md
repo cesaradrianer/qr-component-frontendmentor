@@ -12,8 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -28,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/simple-component-OcW8E1k0rB)
+- Live Site URL: [Add live site URL here](https://cesaradrianer.github.io/qr-component-frontendmentor/)
 
 ## My process
 
@@ -49,4 +47,4 @@ I learned to take Front-End a little bit more seriously, I thought this would be
 ## Author
 
 - Website - [César A. Reséndiz](https://www.cesaradrianer.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/cesaradrianer)
+- Frontend Mentor - [@cesaradrianer](https://www.frontendmentor.io/profile/cesaradrianer)
